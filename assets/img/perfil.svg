@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" width="900" height="1100" role="img" aria-label="Espacio reservado para la foto profesional">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#EFE4D4"/>
+      <stop offset="100%" stop-color="#E0D0B9"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#bg)"/>
+  <g fill="#1F4A44" opacity="0.18">
+    <circle cx="450" cy="430" r="150"/>
+    <path d="M450 620c-165 0-300 122-300 272v208h600V892c0-150-135-272-300-272z"/>
+  </g>
+  <g font-family="Inter, system-ui, sans-serif" text-anchor="middle" fill="#1F4A44">
+    <text x="450" y="1012" font-size="34" font-weight="600" opacity="0.72">Foto profesional</text>
+    <text x="450" y="1056" font-size="24" opacity="0.5">Reemplazar por assets/img/perfil.jpg</text>
+  </g>
+</svg>

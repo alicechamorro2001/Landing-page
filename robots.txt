@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://malenabustos.com.ar/sitemap.xml

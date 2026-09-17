@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#1F4A44"/>
+  <circle cx="1040" cy="90" r="320" fill="#2E6B62" opacity="0.45"/>
+  <circle cx="120" cy="600" r="220" fill="#B4653F" opacity="0.22"/>
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#FAF6F0">
+    <text x="90" y="250" font-size="82" font-weight="600">Malena Bustos</text>
+    <text x="90" y="330" font-size="40" fill="#C98461">Abogada · Derecho penal</text>
+  </g>
+  <g font-family="Inter, system-ui, sans-serif" fill="#FAF6F0" opacity="0.82">
+    <text x="90" y="410" font-size="30">Santiago del Estero · capital e interior de la provincia</text>
+    <text x="90" y="462" font-size="30">Acompañamiento a víctimas de violencia de género</text>
+  </g>
+  <rect x="90" y="520" width="150" height="4" fill="#C98461"/>
+</svg>
