@@ -33,7 +33,8 @@ Está todo marcado en el código con comentarios `TODO` / `PLACEHOLDER`.
 | 4 | **Respuestas de las FAQ** | `index.html`, sección `#faq`, y también dentro del bloque `application/ld+json` (hay que actualizar ambos para que coincidan). |
 | 5 | **Dominio** | Hoy figura `https://malenabustos.com.ar/` como marcador en `<link rel="canonical">`, en las etiquetas Open Graph, en el JSON-LD, en `robots.txt` y en `sitemap.xml`. Reemplazar por el dominio real cuando esté. |
 | 6 | **Matrícula profesional** | Cuando esté el dato, agregarlo en el pie de página (`.footer-legal`) y como `identifier` en el JSON-LD. |
-| 7 | **Imagen de redes** | Idealmente reemplazar `og-image.svg` por un **JPG o PNG de 1200×630 px**: varias redes (WhatsApp, Facebook) no renderizan SVG en las previsualizaciones. |
+| 7 | **Quitar el `noindex`** | Mientras el contenido sea provisorio, `index.html` lleva `<meta name="robots" content="noindex, nofollow">` para que Google no indexe la versión de prueba. Cambiarlo por `content="index, follow"` cuando el contenido sea el real. |
+| 8 | **Imagen de redes** | Idealmente reemplazar `og-image.svg` por un **JPG o PNG de 1200×630 px**: varias redes (WhatsApp, Facebook) no renderizan SVG en las previsualizaciones. |
 
 ### Cómo editar los gráficos circulares
 
